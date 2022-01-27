@@ -8,4 +8,4 @@ numpy==1.21.4
 Pillow==8.4.0
 pytesseract==0.3.8
 opencv-python-headless==4.2.0.32
-Ipython
+ipython
