@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --show_tracebacks=True MF_classifier_app.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --show_tracebacks=True
